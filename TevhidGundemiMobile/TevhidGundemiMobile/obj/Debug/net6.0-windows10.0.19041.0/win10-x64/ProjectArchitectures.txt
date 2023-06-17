@@ -1,1 +1,1 @@
-C:\Users\laptop\Documents\GitHub\TevhidGundemiMobil\TevhidGundemiMobile\TevhidGundemiMobile\TevhidGundemiMobile.csproj;x64
+C:\Users\Mobile Debeloper\Desktop\TevhidGundemiMobile\TevhidGundemiMobile\TevhidGundemiMobile\TevhidGundemiMobile.csproj;x64

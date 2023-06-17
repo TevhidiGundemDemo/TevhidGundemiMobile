@@ -35,7 +35,7 @@ namespace TevhidGundemiMobile.Utils
                     }
                     n.Description = description;
                     n.PublishDate = haber[4].InnerText;//pubdate 10 saat önce gibi gösterilecek.
-                    n.ImageURL = "https:" + haber[6].InnerText;
+                    n.ImageURL =  haber[6].InnerText;
                     hotNews.Add(n);
                 }
             }
